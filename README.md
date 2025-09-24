@@ -57,7 +57,7 @@ print("Decrypted Message:", decrypted)
 ```
 
 ## OUTPUT
-<img width="1914" height="864" alt="Screenshot 2025-09-24 144339" src="https://github.com/user-attachments/assets/82874a51-5241-4203-b10d-0c92a3667f33" />
+<img width="1915" height="866" alt="Screenshot 2025-09-24 144525" src="https://github.com/user-attachments/assets/63843317-d871-44f7-8f2e-98d39f5a83d0" />
 
 ## RESULT
 The code is executed succesfully.
